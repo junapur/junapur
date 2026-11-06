@@ -1,7 +1,7 @@
 # Welcome!
 
 Hello, I'm June! Here's some things to know about me:
-- 19, she/her
+- 20, she/her
 - Perfectionist (for better or worse)
 - Taught myself to code at 15!
 - I enjoy languages like Python, Typescript, Rust, & Zig
